@@ -1,7 +1,9 @@
 # JS-Challenge
 
-# The first <App> of the Challenge is <CounterApp>;
+## Including projects:
 
-# The second <App> of the Challenge is <Blackjack>;
+- CounterApp;
 
-# The third <App> of the Challenge is <PAssword-Generator>;
+- Blackjack;
+
+- Password-Generator;
